@@ -1,0 +1,26 @@
+body {
+  background-color: grey;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+#top-banner {
+  background-color: dimgray;
+  height: 200px;
+  margin: 0;
+}
+
+body > section {
+  background-color: white;
+  margin: 0 auto;
+  width: 75%;
+  height: 700px;
+}
+
+body > footer {
+  background-color: black;
+  width: 75%;
+  height: 100px;
+  margin: 0 auto;
+}
